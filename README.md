@@ -33,7 +33,7 @@ Pusan National University, Busan, Korea
 - **MIT iQuHACK (Team: K-Quantum Tigers)** (Jan 2025)  
   – Factored an 18-bit semiprime with Shor’s algorithm on a 54-qubit simulator  
 - **|Y⟩ Quantum, Yale QI** (Apr 2025)  
-  – Solved BlueQubit “Peak” series (4–44 qubits); QASM analysis & algorithm design  
+  – Solved BlueQubit “Peak” series (4–44 qubits); QASM analysis & algorithm design (1st place)
 - **FLIQ (ITU)** (May 2025)  
   – Developed classical-shadow pipeline & parameterized circuit to classify Z₂/Z₃ phases (1st Place)  
 
@@ -42,6 +42,6 @@ Pusan National University, Busan, Korea
 - PNU Academic Excellence Scholarship (2023)  
 
 **📫 Connect**  
-- GitHub: github.com/jjmain  
-- LinkedIn: linkedin.com/in/ziwoong-jang-917967268  
+- Instagram: https://www.instagram.com/jj__main/
+- LinkedIn: https://www.linkedin.com/in/ziwoong-jang-917967268
 - Email: jjmain97@pusan.ac.kr  
