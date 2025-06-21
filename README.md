@@ -1,47 +1,68 @@
-**Ziwoong Jang**  
-Undergraduate, Physics (Minor: Chemistry)  
-Pusan National University, Busan, Korea  
+Ziwoong Jang
+Undergraduate, Physics (Minor: Chemistry)
+Pusan National University, Busan, Korea
+📧 jjmain97@pusan.ac.kr | 📞 +82 10-4716-8463
+🔗 LinkedIn | GitHub | Instagram
 
-**📚 Education**  
-- **Pusan National University** (Mar 2023 – Feb 2026 expected)  
-  Major: Physics | Minor: Chemistry  
-  GPA 4.07/4.5 · Class Rank 4/64  
-- **University of Ulsan** (Mar 2019 – Feb 2023)  
-  Double Major: Physics & Mathematics  
-  GPA 4.25/4.5 · Class Rank 3/36  
-- **Study Abroad**: Langley, Canada (Jan 2011 – Sep 2012)  
-  English Communication: Fluent  
+📚 Education
+Pusan National University, Busan, Korea
+B.S. in Physics (Minor: Chemistry) — Expected Feb 2026
+GPA: 4.07 / 4.5 | Class Rank: 4 / 64
+→ Admitted to the Integrated M.S.–Ph.D. Program at POSTECH Physics
 
-**🔬 Research Interests**  
-- Quantum materials & novel phenomena in condensed matter  
-- Solid-state synthesis & spectroscopic/diffraction analysis  
-- Quantum computing & many-body simulation  
-- Interdisciplinary methods at the physics–chemistry–computation interface  
+University of Ulsan, Ulsan, Korea
+Double Major: Physics & Mathematics — Mar 2019 – Feb 2021
+GPA: 4.25 / 4.5 | Class Rank: 3 / 36
 
-**💼 Research & Academic Experience**  
-- **Complex Materials Physics Lab, PNU** (Jun 2023 – Jun 2024)  
-  – Grew BaSnO₃ single crystals via flux; optimized Ga₂O₃ thin-film epitaxy  
-  – Authored RF sputtering & PLD lab manuals; hands-on XRD, AFM, Raman, UV-Vis-NIR  
-- **POSTECH SURF (SSSG)** (Jul 2024)  
-  – Synthesized Sr₂IrO₄ via AACVD; developed experimental protocols & EDS/Raman reports  
-- **Ultrafast Optics Lab, PNU** (Jul 2024 – present)  
-  – Set up ANDi laser system; presented on quantum Deutsch algorithm & NOLM  
-- **KAIST-MIT Quantum Info Winter School** (Jan 2025)  
-  – Presented on cold-atom Fermi–Hubbard antiferromagnet research  
+Study Abroad, Langley, Canada — Jan 2011 – Sep 2012
+Fluent in English (academic and conversational)
 
-**🏆 Hackathon Projects**  
-- **MIT iQuHACK (Team: K-Quantum Tigers)** (Jan 2025)  
-  – Factored an 18-bit semiprime with Shor’s algorithm on a 54-qubit simulator  
-- **|Y⟩ Quantum, Yale QI** (Apr 2025)  
-  – Solved BlueQubit “Peak” series (4–44 qubits); QASM analysis & algorithm design (1st place)
-- **FLIQ (ITU)** (May 2025)  
-  – Developed classical-shadow pipeline & parameterized circuit to classify Z₂/Z₃ phases (1st Place)  
+🔬 Research Interests
+Quantum materials & emergent phenomena in condensed matter
 
-**🎖️ Awards & Honors**  
-- UOU Academic Excellence Scholarship (2019 – 2020)  
-- PNU Academic Excellence Scholarship (2023)  
+Solid-state synthesis & diffraction/spectroscopy analysis
 
-**📫 Connect**  
-- Instagram: https://www.instagram.com/jj__main/
-- LinkedIn: https://www.linkedin.com/in/ziwoong-jang-917967268
-- Email: jjmain97@pusan.ac.kr  
+Quantum computing & many-body quantum simulation
+
+Interdisciplinary methods at the physics–chemistry–computation interface
+
+💼 Research & Academic Experience
+Complex Materials Physics Lab, PNU — Jun 2023 – Jun 2024
+– Grew BaSnO₃ single crystals via flux; optimized β-Ga₂O₃ epitaxial growth
+– Authored lab manuals for RF sputtering & PLD; hands-on with XRD, Raman, AFM, UV-Vis-NIR, etc.
+
+POSTECH SURF (Solid-State Spectroscopy Group) — Jul 2024
+– Synthesized Sr₂IrO₄ via AACVD; documented synthesis protocol & analysis using EDS and Raman
+
+Ultrafast Optics Lab (U.F.O.), PNU — Jul 2024 – Present
+– Set up ANDi laser system; presented on Deutsch algorithm and nonlinear optics (NOLM)
+
+KAIST–MIT Quantum Information Winter School — Jan 2025
+– Presented on quantum magnetism in cold-atom Fermi–Hubbard systems
+
+POSTECH SURF (Ultracold Quantum Gases Lab) — Jul–Aug 2025 (Scheduled)
+
+🏆 Hackathon Projects
+MIT iQuHACK — Jan 2025
+– Factored 18-bit semiprime with Shor’s algorithm using 54-qubit Quantum Rings simulator
+
+|Y⟩ Quantum @ Yale Quantum Institute — Apr 2025
+– 1st Place, Team MerQury
+– Solved BlueQubit “Peak” series (4–44 qubits) with QASM analysis and algorithm design
+
+FLIQ @ ITU — May 2025
+– 1st Place, Team MerQury
+– Designed classical-shadow pipeline for Z₂/Z₃ phase classification using parameterized quantum circuits
+
+🎖 Awards & Honors
+UOU Academic Excellence Scholarship (2019–2020, all semesters)
+
+PNU Academic Excellence Scholarship (Spring 2023)
+
+🧪 Technical Skills & Tools
+Experimental: RF Sputtering, Flux Growth, XRD, Raman, UV-Vis-NIR, AFM, PLD, AACVD
+
+Software: Origin, GenX, VESTA, FullProf, Profex, Python, Qiskit
+
+Languages: Korean (Native), English (Fluent), TOEIC 925 (expired)
+
