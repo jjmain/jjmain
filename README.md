@@ -13,7 +13,7 @@ Pusan National University, Busan, Korea
 
 **Pusan National University**, Busan, Korea  
 *B.S. in Physics (Minor: Chemistry)* — *Expected Feb 2026*  
-GPA 4.07 / 4.5 · Class Rank 4 / 64  
+GPA 4.13 / 4.5 · Class Rank 2 / 62  
 → *Admitted to the Integrated M.S.–Ph.D. Program at POSTECH Physics*
 
 **University of Ulsan**, Ulsan, Korea  
