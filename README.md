@@ -3,9 +3,8 @@
 **Undergraduate, Physics (Minor: Chemistry)**  
 Pusan National University, Busan, Korea  
 
-📧 jjmain97@pusan.ac.kr  
-📞 +82 10-4716-8463  
-[LinkedIn](https://www.linkedin.com/in/ziwoong-jang-917967268) · [GitHub](https://github.com/jjmain) · [Instagram](https://www.instagram.com/jj__main/)
+📧 jjmain97@pusan.ac.kr   
+[LinkedIn](https://www.linkedin.com/in/ziwoong-jang-917967268) · [Instagram](https://www.instagram.com/jj__main/)
 
 ---
 
