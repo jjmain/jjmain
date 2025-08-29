@@ -53,7 +53,7 @@ Fluent in English (academic & conversational)
 **KAIST–MIT Quantum Information Winter School** — *Jan 2025*  
 - Presented research on cold-atom Fermi–Hubbard antiferromagnets
 
-**POSTECH SURF (Ultracold Quantum Gases Lab)** — *Jul 2025 - present*
+**POSTECH SURF (Ultracold Quantum Gases Lab)** — *Jul 2025 - Aug 2025*
 
 ---
 
