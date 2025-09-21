@@ -15,6 +15,7 @@ Pusan National University, Busan, Korea
 *B.S. in Physics (Minor: Chemistry)* — *Expected Feb 2026*  
 GPA 4.13 / 4.5 · Class Rank 2 / 62  
 → *Admitted to the Integrated M.S.–Ph.D. Program at POSTECH Graduate School of Physics*
+
 → *Admitted to the Integrated M.S.–Ph.D. Program at KAIST Graduate School of Quantum Science and Technology*
 
 **University of Ulsan**, Ulsan, Korea  
