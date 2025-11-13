@@ -5,7 +5,6 @@ Pusan National University, Busan, Korea
 
 📧 jjmain97@kaist.ac.kr   
 [LinkedIn](https://www.linkedin.com/in/ziwoong-jang-917967268)
-[Instagram](https://www.instagram.com/jj__main/)
 
 ---
 
