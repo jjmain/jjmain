@@ -1,84 +1,91 @@
-# Ziwoong Jang
+# Hi there, I'm Ziwoong (Jim) Jang 👋
 
-**Undergraduate, Physics (Minor: Chemistry)**  
-Pusan National University, Busan, Korea  
+### ⚛️ Graduate Student @ KAIST | Quantum Science & Technology
+I am a researcher specializing in the intersection of **Experimental Hardware** and **Theoretical Optimization**. Starting March 2026, I will be pursuing my integrated M.S.-Ph.D. at the **KAIST Graduate School of Quantum Science and Technology**, co-advised by **Prof. Jong-chul Mun (KRISS)** and **Prof. Jaewook Ahn (KAIST)**.
 
-📧 jjmain97@kaist.ac.kr   
-[LinkedIn](https://www.linkedin.com/in/ziwoong-jang-917967268)
-
----
-
-## 🎓 Education
-
-**Pusan National University**, Busan, Korea  
-*B.S. in Physics (Minor: Chemistry)* — *Expected Feb 2026*  
-GPA 4.13 / 4.5 · Class Rank 2 / 62  
-→ *Admitted to the Integrated M.S.–Ph.D. Program at POSTECH Graduate School of Physics*
-
-→ *Admitted to the Integrated M.S.–Ph.D. Program at KAIST Graduate School of Quantum Science and Technology*
-
-**University of Ulsan**, Ulsan, Korea  
-*Double Major: Physics & Mathematics* — *Mar 2019 – Feb 2020*  
-GPA 4.25 / 4.5 · Class Rank 3 / 36
-
-**Study Abroad**, Langley, Canada — *Jan 2011 – Sep 2012*  
-Fluent in English (academic & conversational)
+My academic passion lies in exploring the synergy between experimental hardware and theoretical frameworks. I have a strong interest in **analog quantum simulation** using **optical tweezers and optical lattices**. Simultaneously, I am keen on researching **digital approaches**, specifically in **quantum algorithm optimization** and **Quantum Machine Learning (QML)**. My goal is to develop a deep understanding of both physical implementation and theoretical frameworks to contribute to the advancement of quantum computing.
 
 ---
 
-## 🔬 Research Interests
-
-- Quantum materials & emergent phenomena in condensed matter  
-- Solid-state synthesis & diffraction/spectroscopy analysis  
-- Quantum computing & many-body quantum simulation  
-- Interdisciplinary methods at the physics–chemistry–computation interface
-
----
-
-## 🧪 Research & Academic Experience
-
-**Complex Materials Physics Lab**, PNU — *Jun 2023 – Jun 2024*  
-- Grew *BaSnO₃* single crystals via flux method  
-- Optimized β-*Ga₂O₃* epitaxial growth (12 samples; max thickness 159.4 nm)  
-- Authored lab manuals for RF sputtering, PLD, and substrate preparation  
-- Hands-on with XRD, AFM, Raman, UV-Vis-NIR, solid-state synthesis  
-- Tools: Origin, GenX, VESTA, FullProf, Profex
-
-**POSTECH SURF (Solid-State Spectroscopy Group)** — *Jul 2024*  
-- Synthesized *Sr₂IrO₄* via AACVD  
-- Developed protocols; performed Raman & EDS analysis
-
-**Ultrafast Optics Lab (U.F.O.)**, PNU — *Jul 2024 – Jul 2025*  
-- Set up ANDi laser system  
-- Presented on classical realization of the Deutsch algorithm and NOLM
-
-**KAIST–MIT Quantum Information Winter School** — *Jan 2025*  
-- Presented research on cold-atom Fermi–Hubbard antiferromagnets
-
-**POSTECH SURF (Ultracold Quantum Gases Lab)** — *Jul 2025 - Aug 2025*
+### 🎓 Education
+* **KAIST Graduate School of Quantum Science and Technology** | Integrated M.S.-Ph.D. | *Starting Mar 2026*
+    * Incoming Student | Co-advised by Prof. Jong-chul Mun (KRISS) & Prof. Jaewook Ahn (KAIST)
+* **Pusan National University (PNU)** | B.S. in Physics (Minor in Chemistry) | *Mar 2023 – Feb 2026 (Expected)*
+    * **GPA: 4.15 / 4.5** | Class Rank: **2 / 62**
+* **University of Ulsan (UOU)** | Double Major in Physics & Mathematics | *Mar 2019 – Feb 2023*
+    * **GPA: 4.25 / 4.5** | Class Rank: **3 / 36** | *Transferred to PNU*
+* **Study Abroad** | Langley, Canada | *Jan 2011 – Sep 2012*
+    * English Proficiency: Fluent (**TOEIC: 925/990**)
 
 ---
 
-## 🧠 Hackathon Projects
+### 🔬 Research & Academic Experience
 
-| Date | Event & Role | Highlights |
-|------|--------------|------------|
-| **Jan 31 – Feb 2 2025** | **MIT iQuHACK** — Remote Participant · Team **K-Quantum Tigers** | Factored an 18-bit semiprime with Shor’s algorithm on the Quantum Rings simulator (54 qubits, 6 895 gates) :contentReference[oaicite:0]{index=0} |
-| **Apr 12 – 13 2025** | **\|Y⟩ Quantum** (Yale Q Institute) — Remote Participant · Team **MerQury** | 🥇 *1st Prize*. Solved BlueQubit “Peak” series (4–44 qubits) through QASM circuit analysis & bespoke algorithm design :contentReference[oaicite:1]{index=1} |
-| **May 16 – 18 2025** | **FLIQ** (ITU) — Remote Participant · Team **MerQury** | 🥇 *1st Prize*. Built a quantum-phase classifier for Z₂/Z₃ using classical-shadow measurements and a shallow parameterized circuit :contentReference[oaicite:2]{index=2} |
-| **Jun 29 – Jul 1 2025** | **Quantum Information Competition** — In-Person Participant | Designed and analyzed QPE circuits (#4 prompt) for phase estimation and eigenvalue extraction under both ideal and noisy environments :contentReference[oaicite:3]{index=3} |
+#### **Quantum & Ultrafast Optics**
+* **Ultrafast Optics Laboratory (U.F.O), PNU** | *Undergraduate Intern* | *Jul 2024 – Jul 2025*
+    * **ANDI Laser Setup**: Independently configured an existing ANDI laser system and authored a comprehensive technical manual.
+    * **Theoretical Study**: Presented research on the classical realization of the **Deutsch algorithm** and **Nonlinear Optical Loop Mirrors (NOLM)**.
+* **KAIST-MIT Quantum Information Winter School** | *In-Person Participant* | *Jan 2025*
+    * Presentation: *A cold-atom Fermi–Hubbard antiferromagnet*.
+* **Ultracold Quantum Gases Laboratory (UQGL), POSTECH** | *Summer Research Fellow* | *Jul 2025 – Aug 2025*
+    * Designed **CAD drawings** for **Saturated Absorption Spectroscopy (SAS)** systems.
+
+#### **Condensed Matter & Materials Physics**
+* **Complex Materials Physics Laboratory (CMP), PNU** | *Undergraduate Intern* | *Jun 2023 – Jun 2024*
+    * **Single Crystal Growth**: Successfully grew $BaSnO_3$ crystals ($1mm \times 1mm$) via the Flux Method using Pt crucibles and $Cu/CuO$ flux.
+    * **Thin Film Engineering**: Optimized epitaxial growth of $\beta-Ga_2O_3$ on $m-Al_2O_3$ substrates via **RF Magnetron Sputtering** (Achieved $159.4nm$ thickness).
+    * **Solid State Synthesis**: Conducted SSR synthesis for $La$-doped $BaSnO_3$, $Sr_3Al_2O_6$, $Er$-doped $TiO_2$, and $Ga_2O_3$.
+    * **Lab Systems**: Authored 10+ detailed manuals for RF Sputtering, PLD, and fundamental procedures (powder milling, furnace use, substrate cleaning).
+* **Solid State Spectroscopy Group (SSSG), POSTECH** | *Summer Research Fellow* | *Jul 2024*
+    * Studied **$Sr_2IrO_4$ synthesis** via **AACVD**; developed manuals for electrolysis-based synthesis and AACVD operation.
 
 ---
 
-## 🏅 Awards & Honors
-
-- UOU Academic Excellence Scholarship (2019–2020, all semesters)  
-- PNU Academic Excellence Scholarship (Spring 2023)
+### 🏆 Hackathon & Competition Achievements
+* 💻 **MIT iQuHACK 2026** | NVIDIA Challenge | *Team Beerantum*
+    * Developed a hybrid quantum-classical model for the **LABS problem**, utilizing **CUDA-Q** and **NVIDIA L40S GPUs** to seed and accelerate **Memetic Tabu Search**.
+* 🥇 **1st Place** | **Future Leaders in Quantum (FLIQ) | ITU** | *Team MerQury*
+    * Developed a quantum phase classification pipeline using **classical-shadow measurements** and parameterized shallow circuits for **Rydberg atom chains**.
+* 🥇 **1st Place** | **Yale |Y⟩ Quantum | Yale Quantum Institute** | *Team MerQury*
+    * Solved the BlueQubit “Peak” series (4–44 qubits) using advanced **QASM circuit analysis**.
+* 🏅 **Grand Finalist (Top 6)** | **Quantum Boost 2025 | Quantum Lithuania** | *Team Beerantum*
+    * Developed a **QUBO** model for SmartGrid energy demand-response using **D-Wave** and **PennyLane**.
+* 💻 **MIT iQuHACK 2025** | MIT-CQE | *Team K-Quantum Tigers*
+    * Factored an 18-bit semiprime using **Shor’s algorithm** on the Quantum Rings Simulator (54 qubits, 6,895 gates).
+* 🏅 **Quantum Information Competition** | MSIT & Q CENTER | *Team NEP*
+    * Analyzed **QPE (Quantum Phase Estimation)** circuits for eigenvalue extraction in noisy environments.
 
 ---
 
-## 🛠 Skills & Tools
+### 👥 Leadership & Professional Activities
+* **Education Lead @ [Team Beerantum](https://github.com/Beerantum)** | *Aug 2025 – Present*
+    * Directing technical onboarding and educational roadmap for a global quantum computing collective.
+* **Co-Organizer @ Qiskit Fall Fest 2025** | University of Paris-Saclay
+    * Co-organized the global series event; Delivered presentations: *Basics of Quantum Information* & *Quantum Machine Learning*.
+* **IBM Qiskit Advocate** | *Recognized Aug 2025*
+    * Active member of the global IBM Quantum community.
 
-- **Experimental**: RF Sputtering, PLD, AACVD, XRD, Raman, AFM, UV-Vis-NIR  
-- **Software**: Origin, GenX, VESTA, FullProf, Profex, Python, Qiskit  
-- **Languages**: Korean (Native), English (Fluent) · TOEIC 925 (expired)
+---
+
+### 🛠 Technical Skills & Qualifications
+| Category | Details |
+| :--- | :--- |
+| **Quantum Software** | Qiskit, CUDA-Q, PennyLane, Classiq, BlueQubit, QASM, D-Wave, Cirq |
+| **Experimental (Major)** | RF Magnetron Sputtering, XRD, Flux Synthesis, Solid State Reaction (SSR) |
+| **Experimental (Minor)** | PLD, Raman Spectroscopy, AACVD, XAS (Pohang Accelerator), EDS, SHG, AFM, UV-Vis-NIR |
+| **Program/Analysis** | Origin, GenX (Thickness Fitting), Fullprof, Vesta, Profex, CAD |
+| **Honors** | UOU & PNU Academic Excellence Scholarships, Qiskit Advocate |
+
+---
+
+### 📜 Publications
+1. **Hemish Ahuja, Samradh Bhardwaj, Kirti Dhir, Roman Bagdasarian, Ziwoong Jang**, *"Quantum Phase Classification of Rydberg Atom Systems Using Resource-Efficient Variational Quantum Circuits and Classical Shadows,"* **arXiv preprint arXiv:2510.23489** (2025).
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn**: [Ziwoong Jang](https://www.linkedin.com/in/ziwoong-jang-917967268)
+* **Email**: [jjmain97@kaist.ac.kr](mailto:jjmain97@kaist.ac.kr)
+* **GitHub**: [github.com/jjmain](https://github.com/jjmain)
+
+*"Bridging the gap between the physical substrate and the quantum algorithm."*
