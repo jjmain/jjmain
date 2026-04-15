@@ -3,7 +3,7 @@
 ### ⚛️ Graduate Student @ KAIST | Quantum Science & Technology
 I am a researcher specializing in the intersection of **Experimental Hardware** and **Theoretical Optimization**. Starting March 2026, I will be pursuing my integrated M.S.-Ph.D. at the **KAIST Graduate School of Quantum Science and Technology**, co-advised by **Prof. Jong-chul Mun (KRISS)** and **Prof. Jaewook Ahn (KAIST)**.
 
-My academic passion lies in exploring the synergy between experimental hardware and theoretical frameworks. I have a strong interest in **analog quantum simulation** using **optical tweezers and optical lattices**. Simultaneously, I am keen on researching **digital approaches**, specifically in **quantum algorithm optimization** and **Quantum Machine Learning (QML)**. My goal is to develop a deep understanding of both physical implementation and theoretical frameworks to contribute to the advancement of quantum computing.
+Graduate student at KAIST specializing in Neutral atom quantum computing. My current interest is leveraging the versatility of optical tweezer platforms to implement digital quantum algorithms and optimized QML frameworks. I am particularly interested in how hardware-specific constraints can inform better theoretical models, moving beyond general simulations toward robust, programmable quantum information processing.
 
 ---
 
