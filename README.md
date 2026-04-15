@@ -87,5 +87,3 @@ Graduate student at KAIST specializing in Neutral atom quantum computing. My cur
 * **LinkedIn**: [Ziwoong Jang](https://www.linkedin.com/in/ziwoong-jang-917967268)
 * **Email**: [jjmain97@kaist.ac.kr](mailto:jjmain97@kaist.ac.kr)
 * **GitHub**: [github.com/jjmain](https://github.com/jjmain)
-
-*"Bridging the gap between the physical substrate and the quantum algorithm."*
